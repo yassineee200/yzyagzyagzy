@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <link rel="stylesheet" href="Footballstyle.css">
+    <title>Football</title>
+  </head>
+  <body>
+    <div class="header">
+      <h1>Football</h1>
+    </div>
+    <ul>
+      <li><a href="Athl%C3%A9tisme.html">Athlétisme</a></li>
+      <li><a href="Natation.html">Natation</a></li>
+    </ul>
+    <dl>
+      <dt><a href="Sport.html">Sport</a></dt>
+    </dl>
+    <ul>
+    </ul>
+    <div class="DEFINITION">
+      <h1>DEFINITION</h1>
+      <ok> </ok>
+      <h3><i><ok>
+            <p>football est un Sport opposant deux équipes de onze joueurs, où
+              il faut faire pénétrer un ballon rond dans les buts adverses sans
+              utiliser les mains (au Canada, on dit soccer). Jouer au foot.
+              Football américain sport voisin du rugby, où les joueurs sont
+              protégés par un lourd équipement (au Canada, on dit Football).</p>
+          </ok></i></h3>
+      <dl style="text-align: center;">
+        <dt><ok> <img src="football.jpg" alt="Girl in a jacket" style="width: 458px; height: 229px;">
+          </ok></dt>
+      </dl>
+      <ok>
+        <p></p>
+      </ok> </div>
+  </body>
+</html>

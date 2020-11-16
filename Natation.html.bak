@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <link rel="stylesheet" href="Natationstyle.css">
+    <title>Natation</title>
+  </head>
+  <body>
+    <div class="header">
+      <h1>Natation</h1>
+    </div>
+    <ul>
+      <li><a href="Athl%C3%A9tisme.html">Athlétisme</a></li>
+      <li><a href="Football.html">Football</a></li>
+      <li><a href="Sport.html">Sport</a></li>
+    </ul>
+    <div class="content">
+      <h1>DEFINITION</h1>
+      <ok> </ok>
+      <h3><i><ok>
+            <p>La natation, c'est-à-dire l'action de nager (Écouter), désigne
+              les méthodes qui permettent aux êtres humains de se mouvoir dans
+              l'eau sans aucune autre force propulsive que leur propre énergie
+              corporelle.
+              Parmi les activités humaines, la natation regroupe le déplacement
+              à la surface de l'eau et sous l'eau (plongée, mermaiding, natation
+              synchronisée, water-polo), le plongeon et divers jeux pratiqués
+              dans l'eau.
+              Elle se pratique en piscine, en eau libre (lac, mer), ou en eau
+              vive (rivière)1.
+              La natation est un sport olympique depuis 1896 pour les hommes et
+              depuis 1912 pour les femmes.</p>
+          </ok></i></h3>
+      <div style="text-align: center;"><ok> <img src="yassine.jpg" alt="Girl in a jacket"
+            style="width: 683px; height: 180px;"> </ok></div>
+    </div>
+  </body>
+</html>
